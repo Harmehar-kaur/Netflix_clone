@@ -10,6 +10,7 @@ body
     background-color: black;
     color: white;
     font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
 }
   
 .navbar 
@@ -551,5 +552,5 @@ footer {
   
 }
   
-@media (min-width: 1254px) {
-  }
+/* @media (min-width: 1254px) {
+  } */
